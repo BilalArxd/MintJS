@@ -1,0 +1,35 @@
+{
+  "name": "mintjs",
+  "version": "1.0.2",
+  "description": "MintJS - Wrapper for ExtJS for BDD",
+  "main": "null",
+  "scripts": {
+    "start": "chimp --watch features"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "mintJS",
+    "BDD",
+    "ExtJS",
+    "Wrapper",
+    "Sencha"
+  ],
+  "author": "Bilal Arshad <BilalArxd@outlook.com",
+  "contributors": [
+    {
+      "name": "Bilal Arshad",
+      "email": "bilalarxd@outlook.com"
+    },
+    {
+      "name": "Faizan Ahmed",
+      "email": "faiyzan@gmail.com"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "chimp": "^0.35.0"
+  }
+}
